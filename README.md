@@ -9,12 +9,12 @@
 ### demo - 狐仙居
 进入狐仙居场景并从狐仙居出到即墨，运行`python huxianju.py`
 
-<img src="https://github.com/lstcutong/Pal4-auto/raw/master/gifs/1~1 00_00_00-00_00_30.gif"/>
+<img src="https://github.com/lstcutong/Pal4-auto/blob/main/gifs/1~1%2000_00_00-00_00_30.gif?raw=true"/>
 
 ### demo - 神农洞
 进入神农洞，并从神农洞御剑飞行到神农洞，运行`python shengnongdong.py`
 
-<img src="https://github.com/lstcutong/Pal4-auto/raw/master/gifs/2~1 00_00_00-00_00_30.gif"/>
+<img src="https://github.com/lstcutong/Pal4-auto/blob/main/gifs/1~1%2000_00_00-00_00_30.gif?raw=true"/>
 
 
 
